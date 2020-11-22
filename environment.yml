@@ -1,0 +1,13 @@
+name: aima_plan
+channels:
+  - conda-forge
+  - https://www.inf.unibz.it/~tessaris/aima-tools/conda-channel
+dependencies:
+  - python>=3.6
+  - jupyterlab
+  - jupytext
+  - gym
+  - fast-downward
+  - pip
+  - pip:
+    - wumpus[gym] @ git+https://gitlab.inf.unibz.it/tessaris/wumpus.git
