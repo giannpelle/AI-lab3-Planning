@@ -6,12 +6,15 @@ This repository contains the group work submitted for the Assignment 2 of the [A
 
 This assignment consists in a series of Planning exercise to be solved using PDDL.
 
-The most significant exercise is the vampire one:
-We are inside a special environment and have a vampire and a slayer and we need to calculate a sequence of actions to make the slayer kill the vampire and then reach a certain location.
-The world consists of a set of rooms adjacent to one another, and each room can either be dark (light off) or bright (light on).
-Only one action is possible, which is the toggle action, and all it does is it turn on or off a specific room.
-If the room where the vampire currently in becomes bright, it will move away from it trying to go a dark room if possible; same for the slayer, if the room he is currently at becomes dark, it will try to to go to a bright room.
-When the slayer and the vampire meet together inside the same room a fight triggers: if the room is bright or if there is a garlic inside the room then the slayer kills the vampire, otherwise the vampire kills the slayer.
+The most significant exercise is the **vampire** one:
+
+We are inside a special environment where there is a vampire and a vampire slayer.
+The goal of the exercise is to calculate a sequence of actions to make the **slayer kill the vampire** and eventually reach a certain room.
+
+The world consists of a set of rooms adjacent to one another, and each room can either be _dark_ (light off) or _bright_ (light on).
+Only one action is possible, which is the _toggle_ action, and all it does is it turn on or off a specific room.
+If the room where the vampire currently in becomes _bright_, it will move away from it trying to go a _dark_ room if possible; same for the slayer, if the room he is currently at becomes _dark_, it will try to to go to a _bright_ room.
+When the slayer and the vampire meet together inside the same room a **fight triggers**: if the room is _bright_ or if there is a **garlic** inside the room then the slayer kills the vampire, otherwise the vampire kills the slayer.
 
 An example of the **game** is shown below:
 
