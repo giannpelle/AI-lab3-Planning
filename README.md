@@ -22,25 +22,25 @@ An example of the **game** is shown below:
 If you want to see the results (outputs) we got from running the different planning exercises below there is the full list of outputs:
 
 * Delivery:
-  * [Delivery](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/delivery-output.html)
+  * [Delivery](https://github.com/giannpelle/AI-lab3-Planning/blob/master/delivery/delivery_sample.ipynb)
 
 * Puzzle:
-  * [Puzzle](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/puzzle-output.html)
-  * [Puzzle weight](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/puzzle-weight-output.html)
-  * [Puzzle glued](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/puzzle-glued-output.html)
-  * [Puzzle cheat](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/puzzle-cheat-output.html)
+  * [Puzzle](https://github.com/giannpelle/AI-lab3-Planning/blob/master/puzzle/puzzle_sample.ipynb)
+  * [Puzzle weight](https://github.com/giannpelle/AI-lab3-Planning/blob/master/puzzle/puzzle_weight_sample.ipynb)
+  * [Puzzle glued](https://github.com/giannpelle/AI-lab3-Planning/blob/master/puzzle/puzzle_glued_sample.ipynb)
+  * [Puzzle cheat](https://github.com/giannpelle/AI-lab3-Planning/blob/master/puzzle/puzzle_cheat_sample.ipynb)
 
 * Vampire:
-  * [Vampire - 01](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world1-output.html)
-  * [Vampire - 02](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world2-output.html)
-  * [Vampire - 03](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world3-output.html)
-  * [Vampire - 04](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world4-output.html)
-  * [Vampire - 05](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world5-output.html)
-  * [Vampire - 06](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world6-output.html)
-  * [Vampire - 07](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world7-output.html)
-  * [Vampire - 08](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world8-output.html)
-  * [Vampire - 09](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world9-output.html)
-  * [Vampire - 10](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire-world10-output.html)
+  * [Vampire - 01](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_01_sample.ipynb)
+  * [Vampire - 02](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_02_sample.ipynb)
+  * [Vampire - 03](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_03_sample.ipynb)
+  * [Vampire - 04](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_04_sample.ipynb)
+  * [Vampire - 05](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_05_sample.ipynb)
+  * [Vampire - 06](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_06_sample.ipynb)
+  * [Vampire - 07](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_07_sample.ipynb)
+  * [Vampire - 08](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_08_sample.ipynb)
+  * [Vampire - 09](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_09_sample.ipynb)
+  * [Vampire - 10](https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/vampire_10_sample.ipynb)
 
 * Wumpus:
   * [Wumpus](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab3-Planning/blob/master/sample-outputs/wumpus-output.html)
